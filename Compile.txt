@@ -1,0 +1,157 @@
+Microsoft (R) Visual C# 2005 Compiler version 8.00.50727.6387
+for Microsoft (R) Windows (R) 2005 Framework version 2.0.50727
+Copyright (C) Microsoft Corporation 2001-2005. All rights reserved.
+
+3rd Generation\Pal Park\HGSS\FreHGSSPPData.cs(14,3): error CS1513: } expected
+3rd Generation\Pal Park\HGSS\ItaHGSSPPData.cs(14,3): error CS1513: } expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(19,10): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(19,43): error CS1002: ; expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(19,55): error CS1519: Invalid token ')' in class, struct, or interface member declaration
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(21,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(21,30): error CS1001: Identifier expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(21,40): error CS1001: Identifier expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(23,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(23,18): error CS1031: Type expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(24,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(24,18): error CS1031: Type expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(25,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(25,18): error CS1031: Type expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(26,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(26,18): error CS1031: Type expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(27,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(27,18): error CS1031: Type expected
+3rd Generation\Pal Park\HGSS\SpaHGSSPPData.cs(30,1): error CS1022: Type or namespace definition, or end-of-file expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(21,10): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(21,41): error CS1002: ; expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(21,53): error CS1519: Invalid token ')' in class, struct, or interface member declaration
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(23,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(23,38): error CS1001: Identifier expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(23,50): error CS1001: Identifier expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(24,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(24,38): error CS1001: Identifier expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(24,50): error CS1001: Identifier expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(26,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(26,18): error CS1031: Type expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(27,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(27,18): error CS1031: Type expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(28,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(28,18): error CS1031: Type expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(29,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(29,18): error CS1031: Type expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(30,4): error CS1520: Class, struct, or interface method must have a return type
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(30,18): error CS1031: Type expected
+3rd Generation\Pal Park\Platinum\FrePtPPData.cs(33,1): error CS1022: Type or namespace definition, or end-of-file expected
+3rd Generation\Pal Park\TrashByteEntry.cs(21,4): error CS1014: A get or set accessor expected
+3rd Generation\3GPokemonData.cs(8,15): error CS1001: Identifier expected
+3rd Generation\3GPokemonData.cs(8,15): error CS1513: } expected
+3rd Generation\3GPokemonData.cs(10,11): error CS1518: Expected class, delegate, enum, interface, or struct
+3rd Generation\3GPokemonData.cs(12,10): error CS1518: Expected class, delegate, enum, interface, or struct
+3rd Generation\3GPokemonData.cs(18,19): error CS1518: Expected class, delegate, enum, interface, or struct
+3rd Generation\3GPokemonData.cs(71,1): error CS1022: Type or namespace definition, or end-of-file expected
+3rd Generation\EPokemonData.cs(8,30): error CS1031: Type expected
+3rd Generation\EPokemonData.cs(8,30): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\EPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+3rd Generation\FrPokemonData.cs(8,31): error CS1031: Type expected
+3rd Generation\FrPokemonData.cs(8,31): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\FrPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+3rd Generation\LgPokemonData.cs(8,31): error CS1031: Type expected
+3rd Generation\LgPokemonData.cs(8,31): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\LgPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+3rd Generation\RPokemonData.cs(8,30): error CS1031: Type expected
+3rd Generation\RPokemonData.cs(8,30): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\RPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+3rd Generation\SPokemonData.cs(8,30): error CS1031: Type expected
+3rd Generation\SPokemonData.cs(8,30): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\SPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+3rd Generation\XDPokemonData.cs(8,31): error CS1031: Type expected
+3rd Generation\XDPokemonData.cs(8,31): error CS1519: Invalid token '3' in class, struct, or interface member declaration
+3rd Generation\XDPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+4th Generation\Munchlax\DPMunchlaxPokemonData.cs(5,39): error CS1031: Type expected
+4th Generation\Munchlax\DPMunchlaxPokemonData.cs(5,39): error CS1519: Invalid token '4' in class, struct, or interface member declaration
+4th Generation\Munchlax\DPMunchlaxPokemonData.cs(6,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+4th Generation\PokeWalker\PokeWalkerCourse.cs(7,36): error CS0650: Syntax error, bad array declarator. To declare a managed array the rank specifier precedes the variable's identifier. To declare a fixed size buffer field, use the fixed keyword before the field type.
+4th Generation\PokeWalker\PokeWalkerCourse.cs(27,4): error CS1014: A get or set accessor expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(30,44): error CS1519: Invalid token '=' in class, struct, or interface member declaration
+4th Generation\PokeWalker\PokeWalkerCourse.cs(31,4): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+4th Generation\PokeWalker\PokeWalkerCourse.cs(32,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(32,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(33,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(33,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(34,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(34,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(35,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(35,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(36,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(36,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(37,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(37,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(38,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(38,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(39,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(39,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(40,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(40,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(41,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(41,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(42,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(42,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(43,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(43,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(44,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(44,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(45,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(45,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(46,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(46,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(47,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(47,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(48,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(48,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(49,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(49,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(50,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(50,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(51,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(51,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(52,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(52,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(53,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(53,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(54,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(54,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(55,44): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(55,46): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(56,42): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(56,44): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(57,39): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(57,41): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(58,44): error CS1001: Identifier expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(58,46): error CS1031: Type expected
+4th Generation\PokeWalker\PokeWalkerCourse.cs(61,1): error CS1022: Type or namespace definition, or end-of-file expected
+4th Generation\4GPokemonData.cs(8,15): error CS1001: Identifier expected
+4th Generation\4GPokemonData.cs(8,15): error CS1513: } expected
+4th Generation\4GPokemonData.cs(10,11): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(11,11): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(12,10): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(14,10): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(14,30): error CS1001: Identifier expected
+4th Generation\4GPokemonData.cs(14,32): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(19,19): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(24,19): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(29,18): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(34,18): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(39,19): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(66,19): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(81,24): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(107,25): error CS1518: Expected class, delegate, enum, interface, or struct
+4th Generation\4GPokemonData.cs(138,4): error CS0116: A namespace does not directly contain members such as fields or methods
+4th Generation\4GPokemonData.cs(142,3): error CS1022: Type or namespace definition, or end-of-file expected
+4th Generation\4GPokemonData.cs(8,9): error CS0101: The namespace 'LegalityChecker' already contains a definition for '?'
+3rd Generation\3GPokemonData.cs(8,9): (Location of symbol related to previous error)
+4th Generation\4GPokemonData.cs(14,30): error CS0101: The namespace 'LegalityChecker' already contains a definition for '?'
+3rd Generation\3GPokemonData.cs(8,9): (Location of symbol related to previous error)
+4th Generation\PlatPokemonData.cs(8,33): error CS1031: Type expected
+4th Generation\PlatPokemonData.cs(8,33): error CS1519: Invalid token '4' in class, struct, or interface member declaration
+4th Generation\PlatPokemonData.cs(9,2): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+PokemonData.cs(19,23): error CS1003: Syntax error, ',' expected
+Utility.cs(30,20): error CS1003: Syntax error, ',' expected
